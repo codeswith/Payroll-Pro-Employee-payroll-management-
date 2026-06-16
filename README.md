@@ -1,6 +1,6 @@
 # Employee Payroll Management System
 
-A modern, full-stack Employee Payroll Management System built with **React.js**, **Node.js**, **Express**, and **MongoDB**.
+A modern, full-stack Employee Payroll Management System built with **React.js**, **Node.js**, **Express**, and **PostgreSQL(Supabase)**.
 
 ## 🚀 Features
 
